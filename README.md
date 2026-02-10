@@ -21,7 +21,7 @@ Establecer las bases conceptuales y metodológicas de la minería de datos como 
 
 ### 1. Introducción y Fundamentos (1 hora)
 
-**📄 Material teórico:** [`M1-Intro.pdf`](M1-Intro.pdf)
+**📄 Material teórico:** [`M1-1_Intro.pdf`](M1-1_Intro.pdf)
 
 **Contenido:**
 - 1.1 ¿Qué es la minería de datos?
@@ -37,9 +37,9 @@ Establecer las bases conceptuales y metodológicas de la minería de datos como 
 
 ---
 
-### 2. Ejercicios Prácticos e Integración (1 hora)
+### 2. Ejercicios Prácticos e Integración (2 horas)
 
-**📓 Notebook:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/husseinlopez/diplomadoIA/blob/main/M1_Ejercicios_Visualizacion_Exploracion.ipynb)
+**📓 Notebook:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/husseinlopez/diplomadoIA/blob/main/M1-2_Ejercicios_Visualizacion.ipynb)
 
 **Contenido:**
 - 2.1 Visualización de conjuntos de datos genéricos
@@ -60,9 +60,9 @@ Establecer las bases conceptuales y metodológicas de la minería de datos como 
 
 ---
 
-### 3. Limpieza y Preparación de Datos (2 horas)
+### 3. Limpieza y Preparación de Datos (1 hora)
 
-**📄 Material teórico:** `M3-Limpieza.pdf` *(Próximamente)*
+**📄 Material teórico:** [`M1-3_Limpieza.pdf`](M1-3_Limpieza.pdf)
 
 **Contenido:**
 - 3.1 Calidad de datos y preprocesamiento
@@ -129,13 +129,13 @@ Establecer las bases conceptuales y metodológicas de la minería de datos como 
 
 ```
 diplomado-ia/
-├── README.md                                          # Este archivo
-├── M1-Intro.pdf                                       # Teoría: Introducción
-├── M1_Ejercicios_Visualizacion_Exploracion.ipynb     # Práctica: Visualización
-├── M3-Limpieza.pdf                                    # Teoría: Limpieza (próximamente)
-├── M3_Ejercicios_Limpieza_Preparacion.ipynb          # Práctica: Limpieza (próximamente)
-├── M5-Evaluacion.pdf                                  # Teoría: Evaluación (próximamente)
-└── M5_Ejercicios_Evaluacion.ipynb                    # Práctica: Evaluación (próximamente)
+├── README.md                               # Este archivo
+├── M1-1_Intro.pdf                          # Teoría: Introducción
+├── M1-2_Ejercicios_Visualizacion.ipynb     # Práctica: Visualización
+├── M1-3_Limpieza.pdf                       # Teoría: Limpieza 
+├── M1-4_Ejercicios_Limpieza.ipynb          # Práctica: Limpieza (próximamente)
+├── M1-5_Evaluacion.pdf                     # Teoría: Evaluación (próximamente)
+└── M1-6_Ejercicios_Evaluacion.ipynb        # Práctica: Evaluación (próximamente)
 ```
 
 ---
@@ -197,11 +197,11 @@ Este módulo forma parte del **tronco común** del diplomado y sienta las bases 
 
 | Fecha | Sesión | Tema | Material |
 |-------|--------|------|----------|
-| Martes 10/Feb | 1 | Introducción y Fundamentos | `M1-Intro.pdf` |
+| Martes 10/Feb | 1 | Introducción y Fundamentos | `M1-1_Intro.pdf` |
 | Martes 10/Feb | 2 | Ejercicios de Visualización | Notebook Colab |
-| Martes 10/Feb | 3 | Limpieza y Preparación | `M3-Limpieza.pdf` |
+| Martes 10/Feb | 3 | Limpieza y Preparación | `M1-3_Limpieza.pdf` |
 | Martes 17/Feb | 4 | Ejercicios de Limpieza | Notebook Colab |
-| Martes 17/Feb | 5 | Evaluación de Modelos | `M5-Evaluacion.pdf` |
+| Martes 17/Feb | 5 | Evaluación de Modelos | `M1-5_Evaluacion.pdf` |
 | Martes 17/Feb | 6 | Ejercicios de Evaluación | Notebook Colab |
 
 ---
@@ -268,7 +268,8 @@ Para más información sobre esta licencia, visita: https://creativecommons.org/
 
 ## ⭐ Actualizaciones
 
-- **9/feb/2026** - Módulo 1 primera parte (Introducción [1 hr]; Ejercicios de Visualización [1 hr]; Limpieza y Preparación de Datos [2 hrs])
+- **23/ene/2026** - Módulo 1 primera parte (Introducción [1 hr]; Ejercicios de Visualización [2 hrs])
+- **30/ene/2026** - Módulo 1 primera parte (Limpieza y Preparación de Datos [1 hr])
 - **[Próximamente]** - Módulo 1 segunda parte (Ejercicios Prácticos e Integración [2 hrs]; Validación y Evaluación de Modelos [1 hr]; Ejercicios Prácticos e Integración [1 hr])
 
 ---
